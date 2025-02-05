@@ -1,0 +1,17 @@
+C:\Users\joyceg\source\repos\Session1\Session1\bin\Debug\net8.0-windows\Session1.exe
+C:\Users\joyceg\source\repos\Session1\Session1\bin\Debug\net8.0-windows\Session1.deps.json
+C:\Users\joyceg\source\repos\Session1\Session1\bin\Debug\net8.0-windows\Session1.runtimeconfig.json
+C:\Users\joyceg\source\repos\Session1\Session1\bin\Debug\net8.0-windows\Session1.dll
+C:\Users\joyceg\source\repos\Session1\Session1\bin\Debug\net8.0-windows\Session1.pdb
+C:\Users\joyceg\source\repos\Session1\Session1\obj\Debug\net8.0-windows\Session1.Grant_JoyceQuestion1.resources
+C:\Users\joyceg\source\repos\Session1\Session1\obj\Debug\net8.0-windows\Session1.Grant_JoyceQuestion2.resources
+C:\Users\joyceg\source\repos\Session1\Session1\obj\Debug\net8.0-windows\Session1.csproj.GenerateResource.cache
+C:\Users\joyceg\source\repos\Session1\Session1\obj\Debug\net8.0-windows\Session1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joyceg\source\repos\Session1\Session1\obj\Debug\net8.0-windows\Session1.AssemblyInfoInputs.cache
+C:\Users\joyceg\source\repos\Session1\Session1\obj\Debug\net8.0-windows\Session1.AssemblyInfo.cs
+C:\Users\joyceg\source\repos\Session1\Session1\obj\Debug\net8.0-windows\Session1.csproj.CoreCompileInputs.cache
+C:\Users\joyceg\source\repos\Session1\Session1\obj\Debug\net8.0-windows\Session1.dll
+C:\Users\joyceg\source\repos\Session1\Session1\obj\Debug\net8.0-windows\refint\Session1.dll
+C:\Users\joyceg\source\repos\Session1\Session1\obj\Debug\net8.0-windows\Session1.pdb
+C:\Users\joyceg\source\repos\Session1\Session1\obj\Debug\net8.0-windows\Session1.genruntimeconfig.cache
+C:\Users\joyceg\source\repos\Session1\Session1\obj\Debug\net8.0-windows\ref\Session1.dll
